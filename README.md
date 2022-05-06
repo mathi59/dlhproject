@@ -75,7 +75,7 @@ group165
 
 ### Preprocessing instructions
 
-Note: The Data --> glove.6B --> glove.6B.100d.txt and Data2 -- glove.6B --> glove.6b.100d.txt files are stored on Git LFS. Before you proceed,  make sure this file gets downloaded fully when you clone it. The size of this file should be roughly 331MB.
+Note: The Data --> glove.6B --> glove.6B.100d.txt and Data2 --> glove.6B --> glove.6b.100d.txt files are stored on Git LFS. Before you proceed, make sure this file gets downloaded fully when you clone it. The size of this file should be roughly 331MB.
 
 This project has been developed using python3 and Jupyter notebook. 
 ```bash
