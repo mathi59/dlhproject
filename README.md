@@ -23,7 +23,7 @@ Our code to reproduce the results of the above study can be done by cloning this
 
 Once you clone this directory it should look like this:
 ```bash
-group165-main
+group165
 ├── Team165_Extracting_Schemas_From_Thought_Records.ipynb
 ├── Team165_Generate_Results_From_Models.ipynb
 ├── README.md
@@ -94,8 +94,8 @@ The modules used in this project are:
 Follow the instructions below to setup the environment.
 
 ```bash
-# Navigate to the group165-main folder 
-cd {User_Home}/group165-main 
+# Navigate to the group165 folder 
+cd {User_Home}/group165 
 ```
 ```bash
 # Create condo environment using name py3env
